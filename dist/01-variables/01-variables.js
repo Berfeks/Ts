@@ -5,4 +5,3 @@ let message2 = "Hello!";
 // Тоже что и let но созданное значение нельзя изменить.
 const message3 = "Hello!";
 //message3 = "world"; //[ts] Cannot assign to 'message3' because it is a constant or a read-only property
-//# sourceMappingURL=01-variables.js.map
